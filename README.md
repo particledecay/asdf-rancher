@@ -1,5 +1,5 @@
 # asdf-rancher [![Build Status](https://travis-ci.org/particledecay/asdf-rancher.svg?branch=master)](https://travis-ci.org/particledecay/asdf-rancher)
-[asdf version manager](https://github.com/asdf-vm/asdf) plugin for Rancher's [RKE](https://www.talos-systems.com/) tool
+[asdf version manager](https://github.com/asdf-vm/asdf) plugin for Rancher's [RKE](https://github.com/rancher/rke) tool
 
 ## Install
 ```bash
